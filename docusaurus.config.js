@@ -22,8 +22,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Void Explorers', // Usually your GitHub org/user name.
-  projectName: 'Touhou Shinshuuyume', // Usually your repo name.
+  organizationName: 'Void-Explorers', // Usually your GitHub org/user name.
+  projectName: 'Touhou-Shinshuuyume-Page', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
