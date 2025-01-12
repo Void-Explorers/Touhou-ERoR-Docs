@@ -1,1 +1,0 @@
-# Touhou-ERoR-Docs
