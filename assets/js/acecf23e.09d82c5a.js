@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[1903],{1912:u=>{u.exports=JSON.parse('{"blogBasePath":"/Touhou-Shinshuuyume-Page/blog","blogTitle":"Blog","authorsListPath":"/Touhou-Shinshuuyume-Page/blog/authors"}')}}]);
