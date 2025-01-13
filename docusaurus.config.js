@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '東方新洲夢',
+  title: 'Void Explorers',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/void-explorers-logo.png',
 
@@ -25,6 +25,8 @@ const config = {
   organizationName: 'Void-Explorers', // Usually your GitHub org/user name.
   projectName: 'Void-Explorers.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
+
+  trailingSlash: true,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
