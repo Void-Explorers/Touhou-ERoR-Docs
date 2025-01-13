@@ -18,12 +18,12 @@ const config = {
   url: 'https://void-explorers.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Touhou-Shinshuuyume-Page/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Void-Explorers', // Usually your GitHub org/user name.
-  projectName: 'Touhou-Shinshuuyume-Page', // Usually your repo name.
+  projectName: 'Void-Explorers.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
@@ -77,7 +77,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '東方新洲夢',
+        title: 'Void Explorers',
         logo: {
           alt: 'Void Explorers Logo',
           src: 'img/void-explorers-logo.png',
